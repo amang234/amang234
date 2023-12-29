@@ -17,3 +17,10 @@
 ## Contact Me
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/AmanSrg234?t=CTITapbX884ZW_cjNNNfBg&s=08) 	[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-grover-966b101b1)
 [![Instagram](https://img.shields.io/badge/instagram-2E3340.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aman._.grover?igshid=NzMyMjgxZWIzNw==)
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amang234&layout=compact&hide=html&theme=dark" alt="amang234" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amang234&show_icons=true&locale=en&theme=dark" alt="amang234" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amang234&theme=dark" alt="amang234" /></p>
