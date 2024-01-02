@@ -35,11 +35,12 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://instagram.com/aman._.grover?igshid=NzMyMjgxZWIzNw==" target="_blank" rel="noopener noreferrer" class="social-badge">
-    <img src="https://img.shields.io/badge/instagram-%E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+    <img src="https://img.shields.io/badge/instagram-%23593d88.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
     <a href="https://www.snapchat.com/add/aman.grover2?share_id=pdSPFGpeJS4&locale=en-GB" target="_blank" rel="noopener noreferrer" class="social-badge">
-    <img src="https://img.shields.io/badge/Snapchat-FFFC00.svg?style=for-the-badge&logo=snapchat&logoColor=black" alt="Snapchat">
+    <img src="https://img.shields.io/badge/Snapchat-%FFFC00.svg?style=for-the-badge&logo=snapchat&logoColor=black" alt="Snapchat">
   </a>
+ 
 </div>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amang234&layout=compact&hide=html&theme=dark" alt="amang234" /></p>
@@ -47,5 +48,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amang234&show_icons=true&locale=en&theme=dark" alt="amang234" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amang234&theme=dark" alt="amang234" /></p>
+
+
+<a href="https://instagram.com/aman._.grover?igshid=NzMyMjgxZWIzNw==" target="_blank" rel="noopener noreferrer" class="social-badge">
+    <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512' width='200' height='50' fill='%238a3ab9'%3E%3Crect width='512' height='512' rx='15%' fill='%238a3ab9'%3E%3C/rect%3E%3Cpath fill='%23fff' d='M384 0H128C57.6 0 0 57.6 0 128v256c0 70.4 57.6 128 128 128h256c70.4 0 128-57.6 128-128V128C512 57.6 454.4 0 384 0zm25.6 397.6c0 13.6-11.2 24.8-24.8 24.8H136c-13.6 0-24.8-11.2-24.8-24.8v-195.2h46.4c-2.4 12-3.2 30.4-3.2 46.4 0 76 61.6 137.6 137.6 137.6s137.6-61.6 137.6-137.6c0-16-0.8-35.2-3.2-46.4h46.4v195.2z'%3E%3C/path%3E%3Ccircle cx='256' cy='256' r='75.2' fill='%23fff'%3E%3C/circle%3E%3Ccircle cx='390.4' cy='121.6' r='20.8' fill='%23fff'%3E%3C/circle%3E%3C/svg%3E" alt="Instagram">
+</a>
 
 
