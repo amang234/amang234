@@ -47,3 +47,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amang234&show_icons=true&locale=en&theme=dark" alt="amang234" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amang234&theme=dark" alt="amang234" /></p>
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
