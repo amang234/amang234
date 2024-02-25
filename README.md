@@ -1,6 +1,6 @@
 ![GitHub Aman Grover Front Page](https://github.com/amang234/amang234/assets/60424294/712f9bbb-c55e-4acb-b7c4-8126361cebc3)
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=900&size=25&duration=3000&pause=1000&color=blue&background=3BFFFD00&vCenter=true&lines=Hi+There!+This+is+Aman+Grover+;+Come+Explore+My+Git+" alt="Typing SVG" /></a>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Georgia&weight=1000&size=26&duration=3000&pause=1000&color=blue&vCenter=true&lines=Hi+There!+This+is+Aman+Grover+" alt="Typing SVG" /></a>
 
 ## About Me
 🔥 Currently pursuing B.Tech in Computer Science Engineering at Vellore Institute of Technology, Bhopal.
@@ -17,13 +17,13 @@
 
 ## Tech Stack 
 <div class="badges-section">
+  <img class="badge" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=yellow" alt="Python">
   <img class="badge" src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
   <img class="badge" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img class="badge" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   <img class="badge" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
   <img class="badge" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img class="badge" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <img class="badge" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=yellow" alt="Python">
 </div>
 
 
