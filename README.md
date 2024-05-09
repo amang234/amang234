@@ -50,8 +50,8 @@
 ### Github stats
 <p><img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=amang234&layout=compact&hide=html&theme=dark" alt="amang234" width="600" /></p>
 <p><img align="centre" src="https://github-readme-stats.vercel.app/api?username=amang234&show_icons=true&theme=tokyonight&title_color=efa722&text_color=f7ab28&hide_border=true&locale=en" alt="Aman" env="PAT_1" width="600" /></p> 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amang234&theme=tokyonight"  alt="Aman" env="PAT_1" width="315"/></p>
-<p><img align="right" src="https://github-contributor-stats.vercel.app/api?username=amang234&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"  alt="Aman" height="300"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amang234&theme=tokyonight"  alt="Aman" env="PAT_1" width="280"/></p>
+<p><img align="right" src="https://github-contributor-stats.vercel.app/api?username=amang234&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"  alt="Aman" height="280"/></p>
 
 
 <br clear="both">
