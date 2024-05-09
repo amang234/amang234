@@ -1,6 +1,8 @@
 ![GitHub Aman Grover Front Page](https://github.com/amang234/amang234/assets/60424294/712f9bbb-c55e-4acb-b7c4-8126361cebc3)
 
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Georgia&weight=1000&size=26&duration=3000&pause=1000&color=blue&vCenter=true&lines=Hi+There!+This+is+Aman+Grover+" alt="Typing SVG" /></a>
+
 
 ## About Me
 🔥 Currently pursuing B.Tech in Computer Science Engineering at Vellore Institute of Technology, Bhopal.
@@ -14,6 +16,7 @@
 📫 Feel free to reach out to me at aman.srg234@gmail.com. 
 
 😌 Let's connect and explore the endless possibilities in the realm of web development!
+
 
 ## Tech Stack 
 <div class="badges-section">
@@ -43,15 +46,16 @@
   </a>
 </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amang234&layout=compact&hide=html&theme=dark" alt="amang234" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amang234&show_icons=true&locale=en&theme=dark" alt="amang234" /></p>
+### Github stats
+<p><img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=amang234&layout=compact&hide=html&theme=dark" alt="amang234" width="600" /></p>
+<p><img align="centre" src="https://github-readme-stats.vercel.app/api?username=amang234&show_icons=true&theme=tokyonight&title_color=efa722&text_color=f7ab28&hide_border=true&locale=en" alt="Aman" env="PAT_1" width="600" /></p> 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amang234&theme=tokyonight"  alt="Aman" env="PAT_1" width="315"/></p>
+<p><img align="right" src="https://github-contributor-stats.vercel.app/api?username=amang234&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"  alt="Aman" height="300"/></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amang234&theme=dark" alt="amang234" /></p>
-###
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/amang234/amang234/output/snake.svg" alt="Snake animation" />
 
-###
+## Snake Game
+<img src="https://raw.githubusercontent.com/amang234/amang234/output/snake.svg" alt="Snake animation" />
